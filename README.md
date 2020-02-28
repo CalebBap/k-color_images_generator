@@ -8,10 +8,10 @@ enter parameters for the k-means clustering algorithm and then save the resultin
 
 ### Installation
 1. Clone or download this repository
-2. Navigate to the directory in which the repository was downloaded/installed in MATLAB
-3. Run the GUI script in MATLAB
+2. In MATLAB, navigate to the directory in which the repository was downloaded/installed
+3. Use the Run button to start the GUI script
 
 ### Usage
 Using the application's GUI you can select the image you wish to process, enter how many colours you would like the output image to
-contain as well as the maximum number of time the k-means clustering algorithm can iterate. Once processed, the image can then be
+contain and set the maximum number of times the k-means clustering algorithm can iterate. Once processed, the image can then be
 saved.
